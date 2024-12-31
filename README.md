@@ -192,3 +192,27 @@ The formula changes to:
 \[ \text{Standard Deviation (Population)} = \sqrt{19.8398} \approx 4.45 \]
 
 ---
+
+
+# Question 3
+
+![Question Image](Question3.jpg)
+
+### Task:
+1. Analyze the distribution of this sample.
+2. Explain how the distribution affects the mean, median, and mode.
+
+**Note:** No calculations are required. Base your answer on the visual distribution.
+
+---
+
+## Solution:
+
+The distribution shown in the histogram appears to be **positively skewed** (right-skewed), as the frequency increases as the value progresses, and then it drops off sharply at the higher end.
+
+### Implications on Mean, Median, and Mode:
+1. **Mean:** The mean is likely to be **pulled towards the higher values** due to the skewness (influence of the larger values on the average).
+2. **Median:** The median will lie **between the mode and the mean**, as it is less affected by extreme values.
+3. **Mode:** The mode will be the **most frequent lower value** as it represents the peak of the distribution.
+
+---
